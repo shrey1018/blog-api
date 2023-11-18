@@ -23,7 +23,7 @@
    - Ensure Node.js is installed.
    - Go to the `backend` directory.
    - Run `npm install` to install dependencies.
-   - Execute `npm start` to begin the backend server (`http://localhost:4000`).
+   - Execute `npm start` to begin the backend server and run both files on different ports(`http://localhost:4000`).
 
 2. **Frontend:**
    - Navigate to the `frontend` directory.
