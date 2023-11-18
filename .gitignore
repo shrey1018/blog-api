@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables file
+.env
+
+# IDE or Editor specific files
+.vscode/
+.idea/
+
+# Mac OSX specific files
+.DS_Store
+
+# Compiled files (generally found in React projects)
+build/
+dist/
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# MongoDB data directory (if storing data locally)
+/data/db
+
+# Production build files (if using create-react-app or similar)
+build/
